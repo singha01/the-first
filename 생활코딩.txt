@@ -1,0 +1,15 @@
+
+- 언급 태그 : head / h1 h2 h3 / p / img / div  / strong / p style / u
+
+2022.11.16.(수) 23:43
+
+12강
+- "속성(attribute)" : 사진을 넣고 싶을 때, img 태그의 속성 scr(source) 활용
+- Unsplash.com : 무료 사진 多
+
+□ Parents / Child Tag
+- 목차: <li> / <ul> / <ol>
+   list  ,   unordered  ,  order   tag
+- 표 : <table> / <tr> / <td>
+
+13강
